@@ -1,6 +1,6 @@
 # Hi there I am Zirveda 👋
 
-### I am a 4rt grade Computer Engineering student at Cukurova University. I always love to learn, research and code. 💃
+### I am a 4th grade Computer Engineering student at Cukurova University. I always love to learn, research and code. 💃
 #
 #### 🌱 I’m currently learning [Python](https://github.com/ZirvedaAytimur/HackerRank_Python) and [Image Processing](https://github.com/ZirvedaAytimur/ImageProcessing_OpenCV_Python)
 ##### I love to share the topics I have learned with you.
