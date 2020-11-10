@@ -2,7 +2,7 @@
 
 ### I am a 4th grade Computer Engineering student at Cukurova University. I always love to learn, research and code. 💃
 #
-#### 🌱 I’m currently learning [Python](https://github.com/ZirvedaAytimur/HackerRank_Python) and [Image Processing](https://github.com/ZirvedaAytimur/ImageProcessing_OpenCV_Python)
+#### 🌱 I’m currently learning [Python](https://github.com/ZirvedaAytimur/HackerRank_Python), [Image Processing](https://github.com/ZirvedaAytimur/ImageProcessing_OpenCV_Python) and [Natural Language Processing](https://github.com/ZirvedaAytimur/Natural-Language-Processing-NLP-)
 ##### I love to share the topics I have learned with you.
 #
 #### 🤔 I am sharing the problems I solved in HackerRank here. 
