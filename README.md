@@ -1,6 +1,6 @@
 # Hi there I am Zirveda 👋
 
-### I am a 4th grade Computer Engineering student at Cukurova University. I always love to learn, research and code. 💃
+### I graduated from Cukurova University, Faculty of Engineering, Computer Engineering in 2021. I always love to learn, research and code. 💃
 #### 🌱 I’m currently learning [Machine Learning](https://github.com/ZirvedaAytimur/Machine-Learning-Examples), [Image Processing](https://github.com/ZirvedaAytimur/ImageProcessing_OpenCV_Python), [Natural Language Processing](https://github.com/ZirvedaAytimur/Natural-Language-Processing-NLP-) and [Reinforcement Learning](https://github.com/ZirvedaAytimur/Reinforcement-Learning-Examples)
 ##### I love to share the topics I have learned with you.
 #### 👯 I am sharing the problems I solved in HackerRank here. 
