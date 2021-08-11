@@ -8,7 +8,6 @@
 ##### This repositories are [Python](https://github.com/ZirvedaAytimur/HackerRank_Python), [30 Days of Code](https://github.com/ZirvedaAytimur/Hackerrank_30DaysOfCode), [Java](https://github.com/ZirvedaAytimur/HackerRank_Java), [Problem Solving](https://github.com/ZirvedaAytimur/Hackerrank_ProblemSolving)
 #### 🎥 I shoot tutorial videos at [Youtube](https://www.youtube.com/channel/UCelcZ6Tfae09JrzWt1PQZNw)
 #### 📝 I regularly write articles on [Medium](https://zirvedaytimur.medium.com/)
-#### 🤔 I’m looking for help about how to create on Airsim multirotor's mathematical model, kinematics and so on...   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zirvedaaytimur&layout=compact&theme=light)
 ![status](https://github-readme-stats.vercel.app/api?username=zirvedaaytimur&show_icons=true)
 #### 📫 [LinkedIn](https://www.linkedin.com/in/zirvedaaytimur/), [HackerRank](https://www.hackerrank.com/CptJenner), [Youtube](https://www.youtube.com/channel/UCelcZ6Tfae09JrzWt1PQZNw/), [Medium](https://zirvedaytimur.medium.com/)
